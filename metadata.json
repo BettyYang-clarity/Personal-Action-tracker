@@ -1,0 +1,8 @@
+{
+  "name": "Personal tracker",
+  "description": "Personal visual dashboard and AI action chase radar for EHS findings, dual-date compliance tracking, site nudges, and calendar synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
